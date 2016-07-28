@@ -10,7 +10,7 @@ document.dispatchEvent(event);
 
 
 
-function handler(e){
+function handler(e) {
     console.log(e);
 }
 
