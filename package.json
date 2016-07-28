@@ -1,0 +1,11 @@
+{
+  "name": "js-cheatsheets",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jasmine-browser": "^1.4.0",
+    "jasmine": "^2.4.1"
+  }
+}
